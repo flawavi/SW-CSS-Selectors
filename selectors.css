@@ -1,0 +1,33 @@
+.main_header {
+  border: 1px solid blue;
+}
+
+.nav_bar a {
+  display: inline-block;
+  list-style: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a {
+  color: purple;
+}
+
+.disabled a {
+  color: purple;
+}
+
+a .disabled {
+  color: purple;
+}
+
+.disabled {
+  color: grey;
+}
+
+
+
+
+
+
+
