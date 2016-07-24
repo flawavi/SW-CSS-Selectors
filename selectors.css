@@ -25,7 +25,43 @@ a .disabled {
   color: grey;
 }
 
+.active {
+  color: yellow;
+}
 
+.im_red {
+  color: red;
+}
+
+.im_blue {
+  color: blue;
+}
+
+.background_red {
+  background-color: red;
+}
+
+.background_blue {
+  background-color: blue;
+}
+
+.grandparent > h4 {
+  border: 1px solid black;
+  border-radius: 20%;
+}
+
+.promo {
+  font-style: bold;
+  color: gold;
+}
+
+.padded span input {
+  height: 25px;
+}
+
+.purple_override {
+  color: purple;
+}
 
 
 
